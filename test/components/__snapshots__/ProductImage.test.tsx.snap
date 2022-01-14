@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en el componente ProductImage debe de mostrar la imagen del producto 1`] = `
+<section
+  className="productCard undefined"
+>
+  <img
+    alt="Coffee Mug - Con Imagen"
+    className="productImg undefined"
+    src="./coffee-mug.png"
+  />
+</section>
+`;
+
+exports[`Pruebas en el componente ProductImage debe de mostrar la imágen enviada por argumento 1`] = `
+<img
+  alt="imagen de prueba"
+  className="productImg undefined"
+  src="https://hola.jpg"
+/>
+`;
